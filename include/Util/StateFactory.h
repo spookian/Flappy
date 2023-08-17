@@ -1,6 +1,7 @@
 #ifndef FLAP_UTIL_STATEFACT_H
 #define FLAP_UTIL_STATEFACT_H
 
+#include <Util.h>
 #include <Hero.h>
 
 // vtable = 80771ee0
